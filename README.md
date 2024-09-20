@@ -5,10 +5,10 @@ This repository contains a collection of data analysis projects conducted in Mic
 
 ## Project List
 
-1. [Ecommerce Sales Analysis Dashboard](https://github.com/Gokul-Raja84/Data-Analysis-in-Excel/tree/main/1.%20Ecommerce%20Sales%20Analysis%20Dashboard)
-2. [HR Analytics Dashboard](https://github.com/Gokul-Raja84/Data-Analysis-in-Excel/tree/main/2.%20HR%20Analytics%20Dashboard)
-3. [Adidas Sales Analysis Dashboard](https://github.com/Gokul-Raja84/Data-Analysis-in-Excel/tree/main/3.%20Adidas%20Sales%20Analysis%20Dashborad)
-4. [MacDonald's Sales 2022 Dashboard](https://github.com/Gokul-Raja84/Data-Analysis-in-Excel/tree/main/4.%20MacDonalds%20Sales%202022%20Dashboard)
+1. [Ecommerce Sales Analysis Dashboard](https://github.com/Techsdemonoj/Data-Analysis-and-Dashboards-in-Excel-main/tree/main/1.%20Ecommerce%20Sales%20Analysis%20Dashboard)
+2. [HR Analytics Dashboard](https://github.com/Gokul-Raja84/Data-Analysis-in-Excel/tree/main/2.%20HR%20Analytics%20Dashboard](https://github.com/Techsdemonoj/Data-Analysis-and-Dashboards-in-Excel-main/tree/main/2.%20HR%20Analytics%20Dashboard)](https://github.com/Techsdemonoj/Data-Analysis-and-Dashboards-in-Excel-main/tree/main/2.%20HR%20Analytics%20Dashboard))
+3. [Adidas Sales Analysis Dashboard](https://github.com/Techsdemonoj/Data-Analysis-and-Dashboards-in-Excel-main/tree/main/3.%20Adidas%20Sales%20Analysis%20Dashborad)
+4. [MacDonald's Sales 2022 Dashboard](https://github.com/Techsdemonoj/Data-Analysis-and-Dashboards-in-Excel-main/tree/main/4.%20MacDonalds%20Sales%202022%20Dashboard)
 
 ## Ecommerce Sales Analysis Dashboard
 
